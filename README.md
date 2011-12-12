@@ -1,13 +1,13 @@
-== Simple Redirect
+# Simple Redirect
 
-Written by stakr GbR (Jan Sebastian Siwy, Martin Spickermann, Henning Staib GbR; http://stakr.de)
+Written by stakr GbR (Jan Sebastian Siwy, Martin Spickermann, Henning Staib GbR; http://www.stakr.de/)
 
-Source: http://svn.stakr.de/rails/plugins/simple_redirect
+Source: https://github.com/stakr/simple_redirect
 
 A plugin to write redirect instruction directly into the route.rb file.
 
 
-=== Example
+## Example
 
 Let's assume you have a route for the 'list' action of the UsersController:
 
